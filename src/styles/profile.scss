@@ -46,3 +46,15 @@ hr{
     }
 }
 }
+@media (max-width:600px) {
+.profile_main {
+height: 100vh;
+// padding: 2rem;
+
+.container{
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+} 
+}

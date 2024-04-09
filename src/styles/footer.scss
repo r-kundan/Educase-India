@@ -1,6 +1,7 @@
 footer{
    background-color: #f2daffb5;
 //    background-color: red;
+// margin-top: 2rem;
 
 }
    .footer-div{
@@ -17,5 +18,12 @@ align-items: center;
    .footer-link{
        color: #421196;
        text-underline-offset: 2px;
+   }
+   @media (max-width:600px) {
+      footer{
+
+      margin-top: 2rem;
+      
+      }
    }
   
